@@ -27,5 +27,5 @@ Into LaTeX formula:
  + Trapezoidal Method
  + Simpsons Rule
  
-## All three results and the equation are displayed on th screen.
+## All three results and the equation are displayed on the screen.
 ![image](https://user-images.githubusercontent.com/118485347/202584537-3431938c-1d69-464b-a4df-3f53132aa9de.png)
